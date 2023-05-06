@@ -1,8 +1,8 @@
 Este diretório contém três arquivos relacionados à detecção de câncer cervical:
 
-(-) Kmeans__Cancer_Cervical.ipynb: Este notebook apresenta uma clusterização na tentativa de detecção de câncer cervical utilizando Kmeans. Ele contém o código fonte, documentação e resultados da execução.
+* Kmeans__Cancer_Cervical.ipynb: Este notebook apresenta uma clusterização na tentativa de detecção de câncer cervical utilizando Kmeans. Ele contém o código fonte, documentação e resultados da execução.
 
-(-) RLM_Cancer_Cervical.ipynb: Este notebook apresenta a detecção de câncer cervical utilizando regressão linear. Ele contém o código fonte, documentação e resultados da execução.
+(*) RLM_Cancer_Cervical.ipynb: Este notebook apresenta a detecção de câncer cervical utilizando regressão linear. Ele contém o código fonte, documentação e resultados da execução.
 
 (-) DetecçãoCâncerCervical.pptx: Este arquivo é uma apresentação em PowerPoint que compara os dois métodos de detecção de câncer cervical, utilizando clusterização e regressão linear. A apresentação mostra os resultados obtidos com ambos os métodos e compara sua eficácia na detecção de câncer cervical.
 
